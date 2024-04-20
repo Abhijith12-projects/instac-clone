@@ -1,9 +1,9 @@
 import {StyleSheet} from 'react-native';
 import React from 'react';
-import HomeScreen from './src/screens/HomeScreen';
+import AuthNavigation from './AuthNavigation';
 
 const App = () => {
-  return <HomeScreen />;
+  return <AuthNavigation />;
 };
 
 export default App;

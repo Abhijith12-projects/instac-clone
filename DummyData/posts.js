@@ -1,7 +1,5 @@
 import data from './data';
 
-console.log(data);
-
 const posts = [
   {
     imageUrl: require('../assets/kailash.jpg'),

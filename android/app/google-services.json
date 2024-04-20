@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350546088036",
+    "project_id": "instagram-auth-d6d22",
+    "storage_bucket": "instagram-auth-d6d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350546088036:android:badd6b0e95540f7f3e8f71",
+        "android_client_info": {
+          "package_name": "com.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1AxD9CXsbuN67fdBK9phggStdeOCmvJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
